@@ -1,0 +1,1 @@
+token = "1498467565:AAGFKPs-RbOUizLYmtTzQ-cu56Z5FkL0xWs" #token botFather
